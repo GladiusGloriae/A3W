@@ -3,21 +3,27 @@
 	<Package name="General">
 		<Key ID="STR_WL_Gen_TeamWEST">
 			<English>BLUFOR</English>
+			<German>BLUFOR</German>
 		</Key>
 		<Key ID="STR_WL_Gen_TeamWEST_2">
 			<English>BLUFOR</English>
+			<German>BLUFOR</German>
 		</Key>
 		<Key ID="STR_WL_Gen_TeamEAST">
 			<English>OPFOR</English>
+			<German>OPFOR</German>
 		</Key>
 		<Key ID="STR_WL_Gen_TeamEAST_2">
 			<English>OPFOR</English>
+			<German>OPFOR</German>
 		</Key>
 		<Key ID="STR_WL_Gen_TeamGUER">
 			<English>Independent</English>
+			<German>Wiederstand</German>
 		</Key>
 		<Key ID="STR_WL_Gen_TeamGUER_2">
 			<English>Independent</English>
+			<German>Wiederstand</German>
 		</Key>
 	</Package>
 	<Package name="TeamLock">
